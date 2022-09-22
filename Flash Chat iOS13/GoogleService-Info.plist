@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>843091868133-dhgdshsrnhp84spai99itkr6q9pmfno1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.843091868133-dhgdshsrnhp84spai99itkr6q9pmfno1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-u2DTptberYL4ac-5d_ZYSTcOZ0aYIEM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>843091868133</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>spassian.flash</string>
+	<key>PROJECT_ID</key>
+	<string>chatbyudit-8cdda</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatbyudit-8cdda.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:843091868133:ios:5e39b30333953cbc1e170c</string>
+</dict>
+</plist>
